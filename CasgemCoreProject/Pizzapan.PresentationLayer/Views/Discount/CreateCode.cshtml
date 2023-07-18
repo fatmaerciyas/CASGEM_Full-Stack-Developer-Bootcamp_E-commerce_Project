@@ -1,0 +1,18 @@
+﻿@model Discount
+@{
+    ViewData["Title"] = "CreateCode";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yeni İndirim Kodu Sayfası</h1>
+
+<form method="post">
+    <label>İndirim Kodu</label>
+    <input type="text" class="form-control" asp-for="DiscountCode" value="@ViewBag.v" readonly />
+    <br />
+    <label>İndirim Kodu Kullanım Sayısı</label>
+    <input type="text" class="form-control" asp-for="DiscountCount"/>
+    <br />
+    <button class="btn btn-outline-primary">Kupon Oluştur</button>
+</form>
+

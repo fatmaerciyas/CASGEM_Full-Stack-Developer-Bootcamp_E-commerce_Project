@@ -1,0 +1,35 @@
+﻿@model OurTeam
+@{
+    ViewData["Title"] = "AddOurTeam";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yeni Takım Üyesi Ekleme Sayfası</h1>
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<div class="container">
+    <br /><br />
+          <form method="post">
+              <label>Adınız</label>
+              <input type="text" class="form-control" asp-for="Name" />
+              <span asp-validation-for="Name" class="text-danger"></span>
+              <br />
+              <label>Soyadınız</label>
+              <input type="text" class="form-control" asp-for="Surname" />
+              <span asp-validation-for="Surname" class="text-danger"></span>
+
+              <br />
+              <label>Başlık</label>
+              <input type="text" class="form-control" asp-for="Title" />
+              <span asp-validation-for="Title" class="text-danger"></span>
+              <br />
+              <label>Görsel</label>
+              <input type="email" class="form-control" asp-for="ImageUrl" />
+              <span asp-validation-for="ImageUrl" class="text-danger"></span>
+              <br />
+             
+              <button type="submit" class="btn btn-primary">Kişiyi Ekle</button>
+            
+          </form>
+</div>

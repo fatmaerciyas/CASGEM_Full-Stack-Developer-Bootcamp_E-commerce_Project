@@ -1,0 +1,15 @@
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.deps.json
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.runtimeconfig.json
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.runtimeconfig.dev.json
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.dll
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\ref\Pizzapan.EntityLayer.dll
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.pdb
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.AssemblyInfo.cs
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.dll
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\ref\Pizzapan.EntityLayer.dll
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.pdb
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.EntityLayer\obj\Debug\net5.0\Pizzapan.EntityLayer.genruntimeconfig.cache

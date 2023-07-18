@@ -1,0 +1,17 @@
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.deps.json
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.runtimeconfig.json
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.dll
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\ref\Pizzapan.DataAccessLayer.dll
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.dll
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.pdb
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.AssemblyInfo.cs
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.dll
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\ref\Pizzapan.DataAccessLayer.dll
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
+C:\Users\fatma\source\repos\CasgemCoreProject\Pizzapan.DataAccessLayer\obj\Debug\net5.0\Pizzapan.DataAccessLayer.genruntimeconfig.cache
