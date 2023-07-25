@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/9keGz1dB3TYt01S1UP/GSv4cwtuuWEZf1LqCAqpZtQwcJzvCZy5qwA7IL/VDHMaizVdDd3M7puE7MAJo8ZGPg==",
+  "dgSpecHash": "xUFZymaxJRY+uMOQU8WnvIQ3KRQsMG2NIc/IUGSLI1ba6w+LnA+2bHezg2WLYKJlN6ekVlv9iNiCAxjSkfJJQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.PresentationLayer\\Pizzapan.PresentationLayer.csproj",
+  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.PresentationLayer\\Pizzapan.PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatma\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
     "C:\\Users\\fatma\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

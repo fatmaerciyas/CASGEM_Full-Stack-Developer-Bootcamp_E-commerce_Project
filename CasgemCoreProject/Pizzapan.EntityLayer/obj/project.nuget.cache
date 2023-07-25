@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qqZ91YTRxaLfr/CkQNFBotF2T6TbjWj0T7jkGYSQ3lefCufvWzaLxYabAfoXlXZ0qX8UrioXGDALssB0CCbtZg==",
+  "dgSpecHash": "8NyNKLuVjnOyWFqLwTSCdoQc+dl25foIaafuy1sMq9CDj5ey61S1ZsAc1Gt4hyBZT6J9YtDmRed8uT1BP5Rtjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatma\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fatma\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj": {}
+    "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj": {
+    "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj",
         "projectName": "Pizzapan.DataAccessLayer",
-        "projectPath": "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\Pizzapan.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\fatma\\Source\\Repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj"
+              "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj"
               }
             }
           }
@@ -79,7 +79,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,18 +89,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj": {
+    "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
         "projectName": "Pizzapan.EntityLayer",
-        "projectPath": "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\fatma\\source\\repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.EntityLayer\\Pizzapan.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatma\\source\\repos\\CasgemCoreProject\\Pizzapan.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\fatma\\Source\\Repos\\CASGEM_Full-Stack-Developer-Bootcamp_E-commerce_Project\\CasgemCoreProject\\Pizzapan.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,7 +168,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -176,7 +178,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

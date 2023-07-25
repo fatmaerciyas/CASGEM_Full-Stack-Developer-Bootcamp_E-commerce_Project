@@ -30,7 +30,7 @@ namespace Pizzapan.PresentationLayer.Controllers
 
             SmtpClient smtpClient = new SmtpClient();
             smtpClient.Connect("smtp.gmail.com", 587, false);
-            smtpClient.Authenticate("projekursapi@gmail.com", "luenooycyyxsnbab");
+            smtpClient.Authenticate("fatmaerciyas22@gmail.com", "luenooycyyxsnbab");
             smtpClient.Send(mimeMessage);
             smtpClient.Disconnect(true);
 
